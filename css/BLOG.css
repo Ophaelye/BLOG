@@ -1,0 +1,67 @@
+.container {
+  background-color: #CCBCA7;
+}
+
+body {
+  background-color: #F8F8F6;
+}
+
+h2, h3 {
+font-family: 'Amatic SC', cursive;
+  font-size: 100%;
+  text-align: center;
+  background-color: #99794F;
+  padding: 10px;
+  color: #7F775B;
+}
+
+
+
+.text {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: justify;
+}
+
+
+header {
+
+background-image: url("../img/sunrise.jpg");
+background-size: cover;
+background-position: center;
+height: 300px;
+width: 100%;
+}
+
+.titre {
+  background-color: #7F775B;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  color: #433F32;
+  font-size: 200%;
+  margin: 10px 0 60px 0;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+
+}
+
+ .illustration {
+margin-top: 20px;
+  height: 100%;
+  width: 100%;
+}
+
+
+.banner {
+  height: 70%;
+  width: auto;
+}
+.text {
+  text-align: justify;
+  font-family: "calibri";
+}
+
+.img-responsive {
+  width : auto;
+}
